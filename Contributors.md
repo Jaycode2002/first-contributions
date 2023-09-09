@@ -118,6 +118,7 @@ Mac McHam
 -psuuc-jbgarcia
 -psuuc-cvdrazo
 -psuuc-larajean
+-psuuc-jordonez
 -psuuc-rscabico
 - psuuc-nbcamatayan
 -psuuc-manaois
